@@ -1,7 +1,7 @@
 Hi 👋 My name is Gian Marco Minto
 =================================
 
-Data analyst / Data scientist
+Data analysis / Data science student
 -----------------------------
 
 I have been programming for about 6 years, since I started attending university. The first programming languages I learned are C, C++, Java and F#. Over the years I have also dealt with functional programming (F# and a few particular constructs in Java) and have developed a particular interest in Python, the language that along with R and SPSS has accompanied me in my study and work for a few years now.
